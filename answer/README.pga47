@@ -1,0 +1,6 @@
+Pratham Garg (pga47) contributions: 
+
+Helped with dataset preparation, including loading, shuffling, and formatting prompts, constraints, and chosen/rejected outputs.
+Assisted in setting up the ORPO training pipeline and configuring LoRA (r=16, alpha=32, dropout=0.05).
+Worked on testing different training steps (250, 500, 1000) and verifying stability under quantization and memory limits.
+Contributed to refining documentation, ensuring clarity around preprocessing, quantization, and model pipeline steps.

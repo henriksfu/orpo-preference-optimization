@@ -1,0 +1,6 @@
+### **My Contributions (hsa206)**
+
+1.  Implemented the main training workflow, including 4-bit quantization, ORPO configuration, scheduler setup, and gradient checkpointing.
+2.  Developed and tested the `prefopt.py` inference script, including LoRA merging and output formatting for evaluation.
+3.  Performed dev set evaluation, debugging batch size/memory issues, and optimizing final step size to reach dev score 53.
+4.  Wrote major parts of the analysis, including performance comparisons and insights into what worked and what didn't.
